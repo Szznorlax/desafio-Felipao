@@ -1,4 +1,1 @@
-Projeto Classificador de Nível de Herói proposto por Felipão.
-
-Bootcamp Santander Godot da DIO!
-
+Repositório contendo os desafios de projetos proposto por Felipão no Bootcamp Santander GODOT da DIO!
